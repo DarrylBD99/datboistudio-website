@@ -1,0 +1,30 @@
+html, body {
+    color: #dc6c7a;
+    background-color: #c1df85;
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+.center img {
+    object-fit:cover;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /*
+    background-color: #99b06b;
+    */
+    color: #bd5663;
+    text-align: center;
+    padding: 12px;
+}
